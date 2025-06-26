@@ -4,7 +4,7 @@ Using [ffmpeg](https://github.com/FFmpeg/FFmpeg) and [OpenAI's Whisper](https://
 Tested on Python 3.10.6
 ## Installation
 ```bash
-git clone https://github.com/vonider/subtitles-creator.git
+git clone https://github.com/fakhr-al-din/subtitles-creator.git
 cd subtitles-creator
 python -m pip install -r requirements.txt
 ```
