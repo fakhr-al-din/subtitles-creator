@@ -8,6 +8,7 @@ git clone https://github.com/vonider/subtitles-creator.git
 cd subtitles-creator
 python -m pip install -r requirements.txt
 ```
+Download FFMPEG executable along main.py file
 
 ## Usage
 
